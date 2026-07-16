@@ -1,0 +1,8 @@
+{
+  "name": "Nexus IDE",
+  "description": "A highly optimized, full-featured cloud IDE featuring real-time collaborative editing, a Termux sandbox shell with custom package manager, official GitHub API integration (with repository creation, forking, committing, and pushing), AI-powered syntax checking, custom themes, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
